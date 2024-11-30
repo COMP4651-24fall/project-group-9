@@ -1,0 +1,8 @@
+com/project/HelloWorld.class
+com/project/CalcAcc.class
+com/project/CalcAcc$AccuracyReducer.class
+main/java/com/project/AccuracyChecker.class
+main/java/com/project/AccuracyChecker$AccuracyCheckerReducer.class
+main/java/com/project/AccuracyChecker$AccuracyCheckerCombiner.class
+com/project/CalcAcc$AccuracyMapper.class
+main/java/com/project/AccuracyChecker$AccuracyCheckerMapper.class
